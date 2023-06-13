@@ -17,3 +17,5 @@ Assignment 7: [Colab Link](https://colab.research.google.com/drive/1NQS8l4uxXt0x
 Assignment 8: [Colab Link](https://colab.research.google.com/drive/1UoTbLcjiWOev2bg_fRqp323Iacmdw6Bb?usp=sharing)
 
 Assignment 9: [Colab Link](https://colab.research.google.com/drive/1JFLpTJ6XHzTuDYqbmAbh-0h51W0lKodl?usp=sharing)
+
+Assignment 10: [Colab Link](https://colab.research.google.com/drive/1JQQn3jEKR91r9XSFFnk3t225-2K34QPE?usp=sharing)
